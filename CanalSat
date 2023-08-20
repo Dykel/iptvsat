@@ -5,7 +5,9 @@ https://hls.mbconline.xyz/live/MBC1/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Local",La Petite Sorcière Tanny
 https://ythls.onrender.com/channel/UC1VGGT9RfunvCdvZf_gqVBg.m3u8
-#EXTINF:-1 tvg-id="",Peppa Pig Français
+
+#EXTINF:-1 tvg-id="" group-title="Local",Peppa Pig Français
+https://ythls.onrender.com/channel/UCXptamDYEVcU4JCio30hYTw.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUBnQCEFfqZRwdDKofN_EphJh5On7Dgz_kg45wn7TxMrxKlP-Y" group-title="Film OnDemand",Pattaya Fr
 https://drive.usercontent.google.com/download?id=1jQls1fvV00EYT7GRg6UEh3ClJqOg63I0&export=download&authuser=0&confirm=t&uuid=f7daf354-a720-40f0-9a63-d7c813354334&at=APZUnTXGIVMn5CmCC3oW8GE0utUi:1692552770042
