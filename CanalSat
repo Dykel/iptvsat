@@ -12,6 +12,9 @@ https://hls.mbconline.xyz/live/MBC3/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/3/3e/20220128205150%21MBC_5_TV_Channel_Logo.png" group-title="Local",MBC 5
 https://hls.mbconline.xyz/live/MBC5/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/archive/3/3e/20220128205150%21MBC_5_TV_Channel_Logo.png" group-title="Local",LearningChannel.mu
+https://hls.mbconline.xyz/live/education/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mbcradio.tv/sites/default/files/cinetvlogo.png" group-title="Local",CINE12
 https://hls.mbconline.xyz/live/MBC12/index.m3u8
 
