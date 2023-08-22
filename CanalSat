@@ -6,10 +6,13 @@ https://hls.mbconline.xyz/live/MBC1/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Local",La Petite Sorcière Tanny
 https://ythls.onrender.com/channel/UC1VGGT9RfunvCdvZf_gqVBg.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="Local",Peppa Pig Francais
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.themoviedb.org/t/p/original/8vfyhKkTwvxbV5UuuIMBP0BLILv.jpg" group-title="Local",Peppa Pig Francais
 https://ythls.onrender.com/channel/UCXptamDYEVcU4JCio30hYTw.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUBnQCEFfqZRwdDKofN_EphJh5On7Dgz_kg45wn7TxMrxKlP-Y" group-title="Film OnDemand",Pattaya Fr
+#EXTINF:-1 tvg-id="" group-title="Film",THE LIST (2023)
+https://toma69374.tomacloud.com/files/a/vk2TjkcWjfpOGKaVbx6gK2Qi5g2LmVCSgEL.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUBnQCEFfqZRwdDKofN_EphJh5On7Dgz_kg45wn7TxMrxKlP-Y" group-title="Film",Pattaya Fr
 https://drive.usercontent.google.com/download?id=1jQls1fvV00EYT7GRg6UEh3ClJqOg63I0&export=download&authuser=0&confirm=t&uuid=f7daf354-a720-40f0-9a63-d7c813354334&at=APZUnTXGIVMn5CmCC3oW8GE0utUi:1692552770042
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://w7.pngwing.com/pngs/248/17/png-transparent-mbc-1-mauritius-broadcasting-corporation-television-channel-others-television-angle-text-thumbnail.png" group-title="Local",MBC 2
