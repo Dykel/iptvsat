@@ -995,3 +995,6 @@ http://aanax.com:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/14816
 http://aanax.com:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/2312
 #EXTINF:-1 tvg-id="espnu.us" tvg-name="US: ESPNU" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/15094ba088f2e48b88e81236d6336575.png" group-title="USA ➾ Sports",US: ESPNU
 http://aanax.com:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/2311
+
+#EXTINF:-1 tvg-id="" tvg-name="ZA: Business Day TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/04f0ca8f0f1a63218f0be001e19ebe85.png" group-title="South Africa ➾ News",ZA: Business Day TV
+http://aanax.com:8080/exdarksacam2020/RRrIqbAI99J5db4rxccngHNivRtR8TQz/290393
