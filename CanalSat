@@ -1,6 +1,3 @@
-#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="FR - DISCOVERY CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/france/DISCOVERYCHANNELHD.png" group-title="|EU| FRANCE DOCUMENTAIRE",FR - DISCOVERY CHANNEL
-http://line.dino.ws:80/85ef5afdec/676dfd73e3df/543561
-
 #EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-tnt.xml,https://xmltvfr.fr/xmltv/xmltv_fr.xml,https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltvfr.fr/xmltv/xmltv.xml,http://obsfullhd.tv:25461/xmltv.php?username=Dominique&password=q6RhSRgBgG"
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="Local",MBC 1
@@ -1007,3 +1004,6 @@ https://toma71998.tomacloud.com/files/a/IVuYZhE6BnxoWgOGDDXEyRmv3llU2RNLMhJ.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="THE FLASH (2023) " tvg-logo="https://www.themoviedb.org/t/p/original/kIHEPNYLWnG2fSwsAPmJkHdwce6.jpg" group-title="Film",THE FLASH (2023) 
 https://toma71999.tomacloud.com/files/a/YEBPs2GaurtjLZU4CvDiDSJPHQKNGHKFmmu.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="FR - DISCOVERY CHANNEL" tvg-logo="http://logo.protv.cc/picons/logos/france/DISCOVERYCHANNELHD.png" group-title="|EU| FRANCE DOCUMENTAIRE",FR - DISCOVERY CHANNEL
+http://line.dino.ws:80/85ef5afdec/676dfd73e3df/543561
