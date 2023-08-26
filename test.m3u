@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR - TF1 HEVC" tvg-logo="http://logo.protv.cc/picons/logos/france/TF1.png" group-title="|EU| FRANCE HEVC",FR - TF1 HEVC
+http://line.dino.ws:80/85ef5afdec/676dfd73e3df/845452
+#EXTINF:-1 tvg-id="" tvg-name="FR - TF1 +1 HEVC" tvg-logo="http://logo.protv.cc/picons/logos/TF1-PLUS1.png" group-title="|EU| FRANCE HEVC",FR - TF1 +1 HEVC
+http://line.dino.ws:80/85ef5afdec/676dfd73e3df/845451
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR - FRANCE 2 HEVC" tvg-logo="http://logo.protv.cc/picons/logos/france/FRANCE2FHD.png" group-title="|EU| FRANCE HEVC",FR - FRANCE 2 HEVC
+http://line.dino.ws:80/85ef5afdec/676dfd73e3df/845450
