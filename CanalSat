@@ -1,5 +1,19 @@
 #EXTM3U x-tvg-url="https://xmltv.ch/xmltv/xmltv-tnt.xml,https://xmltvfr.fr/xmltv/xmltv_fr.xml,https://xmltv.ch/xmltv/xmltv-complet.xml,http://bit.ly/tvguidefr,https://xmltvfr.fr/xmltv/xmltv.xml,http://obsfullhd.tv:25461/xmltv.php?username=Dominique&password=q6RhSRgBgG"
 
+#EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc1.png", MBC 1
+https://hls.mbconline.xyz/live/MBC1/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc2.png", MBC 2
+https://hls.mbconline.xyz/live/MBC2/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tangymc/mbcchannels/main/logos/tvchannels/mbc3.png", MBC 3
+https://hls.mbconline.xyz/live/MBC3/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc4.png", MBC 4
+https://hls.mbconline.xyz/live/BTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc5.png", MBC 5
+https://hls.mbconline.xyz/live/MBC12/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc17.png", MBC 17
+https://hls.mbconline.xyz/live/education/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbcsat.png", MBC SAT
+https://hls.mbconline.xyz/live/YSTV/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/MBC_1_2015_Logo.svg/1280px-MBC_1_2015_Logo.svg.png" group-title="Local",MBC 1
 https://hls.mbconline.xyz/live/MBC1/index.m3u8
 
